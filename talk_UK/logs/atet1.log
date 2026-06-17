@@ -1,0 +1,6 @@
+. quietly xthdidregress aipw (y x*) (treat), group(id) 
+
+. estat atetplot, name(atetplot) sci
+
+. graph export $png/atet1.png, replace
+file ../png/atet1.png saved as PNG format

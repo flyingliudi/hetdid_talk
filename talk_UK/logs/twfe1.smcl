@@ -1,0 +1,32 @@
+{com}. xtdidregress (y x*) (treat), group(id) time(time)
+{res}
+{txt}Treatment and time information
+
+Time variable: {result:time}
+Control:       {result:treat} = {result:0}
+Treatment:     {result:treat} = {result:1}
+{res}{txt}{hline 13}{c TT}{hline 10}{hline 11}
+{col 14}{c |}   Control{col 25}  Treatment
+{hline 13}{c +}{hline 10}{hline 11}
+{res}Group        {txt}{c |}
+{space 10}id {c |}{col 14}{res}{space 1}      233{col 25}{space 2}      767
+{txt}{hline 13}{c +}{hline 10}{hline 11}
+{res}Time         {txt}{c |}
+{space 5}Minimum {c |}{col 14}{res}{space 1}        1{col 25}{space 2}        2
+{txt}{space 5}Maximum {c |}{col 14}{res}{space 1}        1{col 25}{space 2}        7
+{txt}{hline 13}{c BT}{hline 10}{hline 11}
+
+{col 1}Difference-in-differences regression{col 58}{lalign 13:Number of obs}{col 71} = {res}{ralign 5:7,000}
+{txt}Data type: Longitudinal
+
+{res}{txt}{ralign 78:(Std. err. adjusted for {res:1,000} clusters in {res:id})}
+{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 14}{c |}{col 26}    Robust
+{col 1}           y{col 14}{c |} Coefficient{col 26}  std. err.{col 38}      t{col 46}   P>|t|{col 54}     [95% con{col 67}f. interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}ATET         {txt}{c |}
+{space 7}treat {c |}
+{space 3}(1 vs 0)  {c |}{col 14}{res}{space 2}-1.052117{col 26}{space 2} .0747087{col 37}{space 1}  -14.08{col 46}{space 3}0.000{col 54}{space 4}-1.198721{col 67}{space 3} -.905513
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{p 0 6 2}Note: ATET estimate adjusted for covariates,{txt} panel effects, and time effects.{p_end}
+{p 0 6 2}Note: Treatment occurs {help j_xthetdid##|_new:at different times}.{txt}{p_end}

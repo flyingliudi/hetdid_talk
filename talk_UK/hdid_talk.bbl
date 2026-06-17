@@ -1,0 +1,36 @@
+\ifnum 5=1 \def\bibname{Reference}
+\else \def\bibname{References} \fi
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Callaway et~al.(2023)Callaway, Drukker, Liu, and
+  Sant'Anna}]{Callaway2023}
+Callaway, B., D.~Drukker, D.~Liu, and P.~Sant'Anna. 2023.
+\newblock Double/Debiased Machine-learning estimator for
+  Difference-in-Difference with Multiple Periods.
+\urlprefix\url{https://www.doi.org/10.13140/RG.2.2.33815.65447}.
+\bibitem[{Callaway and Sant'Anna(2021)}]{Callaway2021}
+Callaway, B., and P.~H. Sant'Anna. 2021.
+\newblock Difference-in-Differences with multiple time periods.
+\newblock \emph{Journal of Econometrics} 225: 200--230.
+
+\bibitem[{de~Chaisemartin and D’Haultfœuille(2020)}]{Chaise2020}
+de~Chaisemartin, C., and X.~D’Haultfœuille. 2020.
+\newblock Two-Way Fixed Effects Estimators with Heterogeneous Treatment
+  Effects.
+\newblock \emph{American Economic Review} 110: 2964--2996.
+
+\bibitem[{Rambachan and Roth(2023)}]{Rambachan2023}
+Rambachan, A., and J.~Roth. 2023.
+\newblock A more credible approach to parallel trends.
+\newblock \emph{Review of Economic Studies} 90(5): 2555--2591.
+
+\bibitem[{Wooldridge(2021)}]{Wooldridge2021}
+Wooldridge, J.~M. 2021.
+\newblock Two-Way Fixed Effects, the Two-Way Mundlak Regression, and
+  Difference-in-Differences Estimators.
+\urlprefix\url{https://ssrn.com/abstract=3931952}.
+\end{thebibliography}

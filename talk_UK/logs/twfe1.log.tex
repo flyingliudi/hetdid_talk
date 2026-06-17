@@ -1,0 +1,32 @@
+. xtdidregress (y x*) (treat), group(id) time(time)
+{\smallskip}
+Treatment and time information
+{\smallskip}
+Time variable: time
+Control:       treat = 0
+Treatment:     treat = 1
+\HLI{13}{\TOPT}\HLI{21}
+             {\VBAR}   Control  Treatment
+\HLI{13}{\PLUS}\HLI{21}
+Group        {\VBAR}
+          id {\VBAR}       233        767
+\HLI{13}{\PLUS}\HLI{21}
+Time         {\VBAR}
+     Minimum {\VBAR}         1          2
+     Maximum {\VBAR}         1          7
+\HLI{13}{\BOTT}\HLI{21}
+{\smallskip}
+Difference-in-differences regression                     Number of obs = 7,000
+Data type: Longitudinal
+{\smallskip}
+                                 (Std. err. adjusted for 1,000 clusters in id)
+\HLI{13}{\TOPT}\HLI{64}
+             {\VBAR}               Robust
+           y {\VBAR} Coefficient  std. err.      t    P>|t|     [95\% conf. interval]
+\HLI{13}{\PLUS}\HLI{64}
+ATET         {\VBAR}
+       treat {\VBAR}
+   (1 vs 0)  {\VBAR}  -1.052117   .0747087   -14.08   0.000    -1.198721    -.905513
+\HLI{13}{\BOTT}\HLI{64}
+Note: ATET estimate adjusted for covariates, panel effects, and time effects.
+Note: Treatment occurs at different times.

@@ -1,0 +1,6 @@
+. quietly xthdidregress aipw (y x*) (treat), group(id) 
+{\smallskip}
+. estat atetplot, name(atetplot) sci
+{\smallskip}
+. graph export \$png/atet1.png, replace
+file{\bftt{ ../png/atet1.png}} saved as PNG format

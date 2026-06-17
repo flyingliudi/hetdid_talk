@@ -1,0 +1,12 @@
+{com}. quietly xthdidregress aipw (y x*) (treat), group(id) 
+{txt}
+{com}. estat atetplot, name(atetplot) sci
+{res}{txt}
+{com}. graph export $png/atet1.png, replace
+{txt}{p 0 4 2}
+file {bf}
+../png/atet1.png{rm}
+saved as
+PNG
+format
+{p_end}

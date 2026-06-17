@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}{\tt xthdidregress}}{2}{section.1}%
+\contentsline {section}{\numberline {2}{\tt estat aggregation, dynamic}}{3}{section.2}%
+\contentsline {section}{\numberline {3}{\tt estat aggregation, cohort}}{3}{section.3}%
+\contentsline {section}{\numberline {4}{\tt estat aggregation, time}}{4}{section.4}%

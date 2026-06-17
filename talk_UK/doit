@@ -1,0 +1,13 @@
+if [ $1 = "full" ]
+then
+	pdflatex hdid_output
+	bibtex hdid_output
+	pdflatex hdid_output
+	pdflatex hdid_output
+fi
+
+pdflatex hdid_talk
+bibtex hdid_talk
+pdflatex hdid_talk
+pdflatex hdid_talk
+

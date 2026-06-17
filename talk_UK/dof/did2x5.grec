@@ -1,0 +1,138 @@
+StataFileTM:00001:01100:GREC:                          :
+00008:00008:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date:  7 Sep 2023
+*! time: 12:04:47
+*! graph_scheme: stcolor
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.AddLine added_lines editor 2.011799738377773 5.223305947121171 2.007024368560169 4.427613785101613
+.plotregion1.added_lines_new = 1
+.plotregion1.added_lines_rec = 1
+.plotregion1.added_lines[1].style.editstyle  linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) fillcolor(black) size( sztype(relative) val(1.52778) allow_pct(1)) angle(stdarrow) symangle(zero) backsymbol(none) backline( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) backcolor(black) backsize( sztype(relative) val(0) allow_pct(1)) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.AddLine added_lines editor 3.009852030256968 6.206219794321809 3.014627400074571 5.433930342949884
+.plotregion1.added_lines_new = 2
+.plotregion1.added_lines_rec = 2
+.plotregion1.added_lines[2].style.editstyle  linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) fillcolor(black) size( sztype(relative) val(1.52778) allow_pct(1)) angle(stdarrow) symangle(zero) backsymbol(none) backline( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) backcolor(black) backsize( sztype(relative) val(0) allow_pct(1)) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.AddLine added_lines editor 3.988802842865748 7.107224154255723 3.998353582500956 6.334934702883798
+.plotregion1.added_lines_new = 3
+.plotregion1.added_lines_rec = 3
+.plotregion1.added_lines[3].style.editstyle  linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) fillcolor(black) size( sztype(relative) val(1.52778) allow_pct(1)) angle(stdarrow) symangle(zero) backsymbol(none) backline( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) backcolor(black) backsize( sztype(relative) val(0) allow_pct(1)) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.AddLine added_lines editor 4.986855134744943 8.148644778075445 4.99640587438015 7.317848550084432
+.plotregion1.added_lines_new = 4
+.plotregion1.added_lines_rec = 4
+.plotregion1.added_lines[4].style.editstyle  linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) fillcolor(black) size( sztype(relative) val(1.52778) allow_pct(1)) angle(stdarrow) symangle(zero) backsymbol(none) backline( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) backcolor(black) backsize( sztype(relative) val(0) allow_pct(1)) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.added_lines[1].style.editstyle linestyle(pattern(dash)) editcopy
+.plotregion1.added_lines[1].style.editstyle headpos(both) editcopy
+// line[1] edits
+
+.plotregion1.added_lines[1].style.editstyle linestyle(pattern(dash)) editcopy
+// line[1] pattern
+
+.plotregion1.added_lines[2].style.editstyle linestyle(pattern(dash)) editcopy
+.plotregion1.added_lines[2].style.editstyle headpos(both) editcopy
+// line[2] edits
+
+.plotregion1.added_lines[3].style.editstyle linestyle(pattern(dash)) editcopy
+.plotregion1.added_lines[3].style.editstyle headpos(both) editcopy
+// line[3] edits
+
+.plotregion1.added_lines[3].style.editstyle linestyle(pattern(dash)) editcopy
+// line[3] pattern
+
+.plotregion1.added_lines[4].style.editstyle linestyle(pattern(dash)) editcopy
+.plotregion1.added_lines[4].style.editstyle headpos(both) editcopy
+// line[4] edits
+
+.plotregion1.AddTextBox added_text editor 4.88396664273048 2.050002696918603
+.plotregion1.added_text_new = 1
+.plotregion1.added_text_rec = 1
+.plotregion1.added_text[1].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Effects{sup:treated, 2}
+// editor text[1] edits
+
+// editor text[1] edits
+
+.plotregion1.added_text[1].DragBy .2457284618001604 -.0143261094528112
+// editor text[1] reposition
+
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Effects{sup:2}
+// editor text[1] edits
+
+// editor text[1] edits
+
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Effects{sub:2}
+// editor text[1] edits
+
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Effects(T=2)
+// editor text[1] edits
+
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Effects(T=2)
+// editor text[1] edits
+
+.plotregion1.added_text[1].DragBy -.3042352384192458 .0047753698176037
+// editor text[1] reposition
+
+.plotregion1.AddTextBox added_text editor 5.796672357988211 3.057605728433006
+.plotregion1.added_text_new = 2
+.plotregion1.added_text_rec = 2
+.plotregion1.added_text[2].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[2].text = {}
+.plotregion1.added_text[2].text.Arrpush Effects(T=3)
+// editor text[2] edits
+
+.plotregion1.added_text[2].text = {}
+.plotregion1.added_text[2].text.Arrpush Effects(T=3)
+// editor text[2] edits
+
+.plotregion1.AddTextBox added_text editor 5.773269647340577 3.391881615665271
+.plotregion1.added_text_new = 3
+.plotregion1.added_text_rec = 3
+.plotregion1.added_text[3].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[2].DragBy .1755203298572563 -.0095507396352075
+// editor text[2] edits
+
+.plotregion1.AddTextBox added_text editor 6.802988915836481 4.041331910859388
+.plotregion1.added_text_new = 4
+.plotregion1.added_text_rec = 4
+.plotregion1.added_text[4].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[4].text = {}
+.plotregion1.added_text[4].text.Arrpush Effects(T=4)
+// editor text[4] edits
+
+.plotregion1.added_text[4].text = {}
+.plotregion1.added_text[4].text.Arrpush Effects(T=4)
+// editor text[4] edits
+
+.plotregion1.AddTextBox added_text editor 7.821006829008564 5.044159572556189
+.plotregion1.added_text_new = 5
+.plotregion1.added_text_rec = 5
+.plotregion1.added_text[5].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.2) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[5].text = {}
+.plotregion1.added_text[5].text.Arrpush Effects(T=5)
+// editor text[5] edits
+
+.plotregion1.added_text[5].text = {}
+.plotregion1.added_text[5].text.Arrpush Effects(T=5)
+// editor text[5] edits
+
+
+// <end>

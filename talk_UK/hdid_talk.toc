@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Heterogeneous treatment effects and TWFE}{2}{0}{1}
+\beamer@sectionintoc {2}{Example: minimum wage}{12}{0}{2}
+\beamer@sectionintoc {3}{Aggregate ATET's}{16}{0}{3}
+\beamer@sectionintoc {4}{Four estimators}{22}{0}{4}
